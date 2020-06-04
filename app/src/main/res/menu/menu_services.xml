@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<!--<item-->
+<!--    android:icon="@drawable/ic_star_half_black_24dp"-->
+<!--    android:title="Rate"-->
+<!--    android:id="@+id/rate"/>-->
+    <item
+        android:title="Report/Feedback"
+        android:icon="@drawable/ic_bug_report_black_24dp"
+        android:id="@+id/report"
+        app:showAsAction="always"
+        />
+<!--    <item-->
+<!--        android:title="Contact Us"-->
+<!--        android:id="@+id/contact"-->
+<!--        android:icon="@drawable/ic_contacts_black_24dp"-->
+<!--        app:showAsAction="always"-->
+<!--        />-->
+<!--    <item-->
+<!--        android:title="Share"-->
+<!--        android:icon="@drawable/ic_share_black_24dp"-->
+<!--        android:id="@+id/Share"-->
+<!--        app:showAsAction="always"-->
+<!--        />-->
+</menu>
